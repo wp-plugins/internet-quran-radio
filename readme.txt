@@ -19,7 +19,7 @@ Major new features in Internet Quran Radio 1.0 include:
 * More than 124 radio
 * HTML5 player
 
-PS: For Support: [MP3 Quran)](http://www.mp3quran.net).
+PS: For Support: [MP3 Quran](http://www.mp3quran.net).
 
 == Installation ==
 
